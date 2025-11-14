@@ -1,0 +1,26 @@
+{
+  "name": "app-ads",
+  "version": "1.0.0",
+  "description": "Google AdMob integration for mobile applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "admob",
+    "google-admob",
+    "mobile-ads",
+    "react-native",
+    "advertising"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-google-mobile-ads": "^13.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0"
+  }
+}
